@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Lovin Ads Configuration</string>
+    <string name="applovin_sdk_key">05TMDQ5tZabpXQ45_UTbmEGNUtVAzSTzT6KmWQc5_CuWdzccS4DCITZoL3yIWUG3bbq60QC_d4WF28tUC4gVTF</string>
+    <string name="applovin_interstitial_main_ids">YOUR_SDK_KEY_HERE</string>
+    <string name="applovin_small_native_ids">YOUR_SDK_KEY_HERE\n</string>
+    <string name="applovin_banner_ids">YOUR_SDK_KEY_HERE</string>
+    <string name="applovin_interstitial_splash_ids">YOUR_SDK_KEY_HERE</string>
+    <string name="applovin_splash_native_ids">YOUR_SDK_KEY_HERE</string>
+</resources>
